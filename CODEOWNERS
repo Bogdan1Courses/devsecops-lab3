@@ -1,0 +1,5 @@
+# CODEOWNERS - require review for sensitive files
+* @Bogdan1Courses
+.github/workflows/ @Bogdan1Courses
+Dockerfile @Bogdan1Courses
+*.tf @Bogdan1Courses
